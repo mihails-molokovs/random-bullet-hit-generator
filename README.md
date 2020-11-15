@@ -1,0 +1,1 @@
+# random-bullet-hit-generator
